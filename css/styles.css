@@ -237,8 +237,8 @@ section {
 /* SUBSCRIBE */
 
 #subscribe {
-  background: url(../images/bg-subscribe.jpg) no-repeat fixed center center /
-    cover rgba(0, 0, 0, 0);
+  background: url(../images/bible.jpeg) no-repeat fixed center center / cover
+    rgba(0, 0, 0, 0);
   padding: 0px;
   min-height: 430px;
 }
